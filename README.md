@@ -1,1 +1,0 @@
-# prerender-multi-page-plugin
